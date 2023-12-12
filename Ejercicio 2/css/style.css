@@ -1,0 +1,28 @@
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+h1{
+    color: rgb(0, 162, 255);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px rgb(194, 194, 194) solid;
+
+}
+
+input, select, textarea{
+    color: #ff0000;
+}
+
+span{
+    color: rgb(0, 162, 255);
+}
